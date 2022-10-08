@@ -1,0 +1,9 @@
+cd src/main/java/
+
+# javac ro/academyplus/avaj/simulator/Simulator.java
+
+find * -name "*.java" > sources.txt
+
+javac @sources.txt
+
+java ro.academyplus.avaj.simulator.Simulator ../../../scenario.txt

@@ -1,0 +1,17 @@
+cd src/main/java/
+
+rm -rf sources.txt
+rm -rf ro/academyplus/avaj/simulator/Aircraft.class
+rm -rf ro/academyplus/avaj/simulator/AircraftFactory.class
+rm -rf ro/academyplus/avaj/simulator/Baloon.class
+rm -rf ro/academyplus/avaj/simulator/Coordinates.class
+rm -rf ro/academyplus/avaj/simulator/Flyable.class
+rm -rf ro/academyplus/avaj/simulator/Helicopter.class
+rm -rf ro/academyplus/avaj/simulator/JetPlane.class
+rm -rf ro/academyplus/avaj/simulator/Simulator.class
+rm -rf ro/academyplus/avaj/simulator/Tower.class
+rm -rf ro/academyplus/avaj/simulator/WeatherProvider.class
+rm -rf ro/academyplus/avaj/simulator/WeatherTower.class
+rm -rf ro/academyplus/avaj/simulator/MyCustomException.class
+rm -rf ro/academyplus/avaj/simulator/MyCustomNumberFormatException.class
+rm -rf ../../../simulation.txt
