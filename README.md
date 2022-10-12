@@ -1,8 +1,10 @@
 # Avaj_-_aircraft_simulation
 
-is an an aircraft simulation program based on the UML-diagram (see /docs/UML_avaj_project_structure.png).
+is an aircraft simulation program based on the UML-diagram (see /docs/UML_avaj_project_structure.png).
 
 Avaj-launcher is the simulation of aircraft flights at different weather conditions.
+
+By the way, the code ought to include 3 software design patterns: Singleton, Factory and Observer pattern.
 
 For more details (plus bonus features: custom exceptions, use of MD5) see /docs/subject.pdf and /docs/checklist.pdf
 
